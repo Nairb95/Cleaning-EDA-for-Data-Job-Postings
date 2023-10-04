@@ -4,13 +4,13 @@
 This GitHub repository hosts the code and documentation for a comprehensive analysis of job postings in the Data Science and Data Analysis roles on Glassdoor. The project focuses on data cleaning, exploratory data analysis (EDA), and data visualization to extract valuable insights from a dataset containing job postings information. The main objective is to analyze salaries corresponding to different industries, demand levels, and seniority for each data-related role, and to identify the most relevant skills for these positions.
 
 ## Table of Contents
-Project Overview
-Data Cleaning
-Exploratory Data Analysis (EDA)
-Data Visualization
-Usage
-Contributing
-License
+* **Project Overview**
+* **Data Cleaning**
+* **Exploratory Data Analysis (EDA)**
+* **Data Visualization**
+* **Usage**
+* **Contributing**
+* **License**
 ## Data Cleaning
 It is crucial to explore and make a detailed check on each column of the data we will be working on, as it needs to be cleaned/processed afterwards. For this we ensured to correctly deal with missing values, remove certain duplicates and only keep relevant columns for the analysis. Finally categorizing variables and obtaining a robust dataset for its analysis.
 * **Data Issues:** The data has consistency issues in the text formats and types of some data columns. Additionally, it has handled the missing values replacing them with '-1' which in some cases it is no adequate.
